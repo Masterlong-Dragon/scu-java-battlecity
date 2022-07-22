@@ -6,6 +6,8 @@
 
 这是一个非常粗糙的项目，内容是模仿经典的90坦克大战，属未完成品，具有一定的学习参考意义（大概）。
 
+框架的具体使用参照[这里]([ml-game-framework/README.md at main · Masterlong-Dragon/ml-game-framework (github.com)](https://github.com/Masterlong-Dragon/ml-game-framework/blob/main/README.md))。
+
 <img src=".\演示.png" alt="演示" style="zoom:50%;" />
 
 ## 功能
