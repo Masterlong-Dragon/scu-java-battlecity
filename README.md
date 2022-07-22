@@ -38,5 +38,5 @@
 
 ## 项目整体结构
 
-![](C:\Users\MasterLong\Documents\GitHub\scu-java-battlecity\README.assets\src.png)
+![](.\src.png)
 
